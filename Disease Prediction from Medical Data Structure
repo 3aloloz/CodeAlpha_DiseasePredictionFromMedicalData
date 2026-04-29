@@ -1,0 +1,44 @@
+Disease-Prediction-Medical-ML/
+│
+├── 📁 data/
+│   ├── heart.csv
+│   ├── diabetes.csv
+│   ├── breast_cancer.csv
+│
+├── 📁 models/
+│   ├── heart_LogReg.pkl
+│   ├── heart_SVM.pkl
+│   ├── heart_RandomForest.pkl
+│   ├── heart_XGBoost.pkl
+│   ├── diabetes_LogReg.pkl
+│   ├── diabetes_SVM.pkl
+│   ├── diabetes_RandomForest.pkl
+│   ├── diabetes_XGBoost.pkl
+│   ├── breast_LogReg.pkl
+│   ├── breast_SVM.pkl
+│   ├── breast_RandomForest.pkl
+│   ├── breast_XGBoost.pkl
+│
+├── 📁 notebooks/
+│   ├── 01_data_loading.ipynb
+│   ├── 02_eda_visualization.ipynb
+│   ├── 03_preprocessing.ipynb
+│   ├── 04_model_training.ipynb
+│   ├── 05_evaluation.ipynb
+│
+├── 📁 src/
+│   ├── preprocessing.py
+│   ├── train_models.py
+│   ├── evaluate.py
+│   ├── utils.py
+│
+├── 📁 visuals/
+│   ├── heart_accuracy.png
+│   ├── diabetes_accuracy.png
+│   ├── breast_accuracy.png
+│   ├── feature_importance.png
+│
+├── 📄 README.md
+├── 📄 requirements.txt
+├── 📄 app.py   (optional future Streamlit app)
+└── 📄 .gitignore
