@@ -10,6 +10,15 @@ We built predictive models for:
 
 ---
 
+## 🚀 Data sets Used
+- /kaggle/input/datasets/alaahussien/breast-canser
+- /kaggle/input/datasets/fedesoriano/heart-failure-prediction
+- /kaggle/input/datasets/organizations/uciml/pima-indians-diabetes-database
+
+---
+
+---
+
 ## 🚀 Machine Learning Models Used
 - Logistic Regression
 - Support Vector Machine (SVM)
